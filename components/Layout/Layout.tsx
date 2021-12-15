@@ -49,7 +49,7 @@ export default function Layout({ children }: LayoutProps): ReactElement {
   return (
     <Configuration icons={icons}>
       <RMDLayout
-        title="Main Title"
+        title="Kelly Justin Wilson"
         navHeaderTitle="Navigation Header Title"
         tabletLayout="temporary"
         landscapeTabletLayout="temporary"
